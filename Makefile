@@ -7,4 +7,3 @@ clean:
 	rm -rf main
 	rm -rf main_2
 	rm -rf main_3
-
